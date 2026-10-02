@@ -1,0 +1,53 @@
+﻿№,блок,авторы,год,название,издание,DOI,статус проверки,примечание
+1,A,Vincent et al.,2006,Biomimetics: its practice and theory,J R Soc Interface 3(9):471-482,10.1098/rsif.2006.0127,подтверждено веб-поиском,"DOI, том, страницы совпали"
+2,A,"Helms, Vattam, Goel",2009,Biologically inspired design: process and products,Design Studies 30(5):606-622,10.1016/j.destud.2009.04.003,не проверено (сеть),
+3,A,Bhushan,2009,Biomimetics: lessons from nature - an overview,Phil Trans R Soc A 367:1445-1486,10.1098/rsta.2009.0011,не проверено (сеть),
+4,A,"Lepora, Verschure, Prescott",2013,The state of the art in biomimetics,Bioinspir Biomim 8(1):013001,10.1088/1748-3182/8/1/013001,не проверено (сеть),
+5,A,Jacobs,2014,Biomimetics: a simple foundation will lead to new insight about process,Int J Design & Nature Ecodyn 9(2):83-94,10.2495/DNE-V9-N2-83-94,не проверено (сеть),
+6,A,Kovac,2014,The Bioinspiration Design Paradigm: A Perspective for Soft Robotics,Soft Robotics 1(1):28-37,10.1089/soro.2013.0004,не проверено (сеть),
+7,A,Sane,2016,Bioinspiration and Biomimicry: What Can Engineers Learn from Biologists?,J Appl Sci Eng 19(1):1-6,10.6180/jase.2016.19.1.01,не проверено (сеть),"год 2016, не 2026 (путь /2026/08/ в URL - артефакт сайта)"
+8,A,Fayemi et al.,2017,"Biomimetics: process, tools and practice",Bioinspir Biomim 12(1):011002,10.1088/1748-3190/12/1/011002,не проверено (сеть),
+9,A,Wanieck et al.,2017,Biomimetics and its tools,Bioinspired Biomim Nanobiomater 6(2):53-66,10.1680/jbibn.16.00010,не проверено (сеть),
+10,A,"Lenau, Metze, Hesselberg",2018,Paradigms for biologically inspired design,Proc SPIE 10593:1059302,10.1117/12.2296560,не проверено (сеть),
+11,A,Wanieck et al.,2020,Biomimetics: teaching the tools of the trade,FEBS Open Bio 10(11):2250-2267,10.1002/2211-5463.12963,не проверено (сеть),
+12,B,"Han, Hu, Tian, Chen",2021,Review on bio-inspired flight systems and bionic aerodynamics,Chin J Aeronaut 34(7):170-186,10.1016/j.cja.2020.03.036,подтверждено веб-поиском,"поиск указывает онлайн-публикацию 2020; в списке выпуск 2021 - уточнить; в списке автор Hui Z., по поиску Hu Z. - сверить"
+13,B,Tanaka et al.,2022,Review of Biomimetic Approaches for Drones,Drones 6(11):320,10.3390/drones6110320,подтверждено веб-поиском,"DOI, том, статья совпали"
+14,B,"Siddall, Kovac",2021,Bioinspired Aerial Robots,"Encyclopedia of Robotics, Springer",10.1007/978-3-642-41610-1_70-1,не проверено (сеть),
+15,B,"Liu, Ravi, Kolomenskiy, Tanaka",2016,Biomechanics and biomimetics in insect-inspired flight systems,Phil Trans R Soc B 371:20150390,10.1098/rstb.2015.0390,не проверено (сеть),PMC4992714 найден в выдаче поиска
+16,B,Shyy et al.,2016,"Aerodynamics, sensing and control of insect-scale flapping-wing flight",Proc R Soc A 472:20150712,10.1098/rspa.2015.0712,не проверено (сеть),есть Correction 10.1098/rspa.2016.0096 (не проверено)
+17,B,Harvey et al.,2022,A review of avian-inspired morphing for UAV flight control,Prog Aerosp Sci 132:100825,10.1016/j.paerosci.2022.100825,подтверждено веб-поиском,DOI и авторы совпали
+18,B,De Manabendra et al.,2024,Bio-inspired Flapping Wing Aerodynamics: A Review,J Indian Inst Sci 104(1):181-203,10.1007/s41745-024-00420-0,подтверждено веб-поиском,"авторы, том, страницы совпали; DOI напрямую не показан"
+19,B,Rafee Nekoo et al.,2025,A review on flapping-wing robots: Recent progress and challenges,Int J Robot Res 44(14):2305-2339,10.1177/02783649251343638,подтверждено веб-поиском,"DOI, том, страницы совпали"
+20,B,Shahid et al.,2025,Bioinspired Morphing in Aerodynamics and Hydrodynamics,Biomimetics 10(7):427,10.3390/biomimetics10070427,подтверждено веб-поиском,PMC12292994; первый автор Farzeen Shahid
+21,B,"Prisacariu, Dumitrescu",2026,Bridging Biology and Engineering: Unsteady Aerodynamics and Biomimetic Design of MAVs,Biomimetics 11(4):250,10.3390/biomimetics11040250,НЕ НАЙДЕНО поиском,требует ручной проверки; не цитировать до подтверждения
+22,B,"Sim, Jin, Woo, Bae",2026,A System-Level Review of Bio-Inspired Technologies for Next-Generation UAVs,Biomimetics 11(8):596,10.3390/biomimetics11080596,НЕ НАЙДЕНО поиском,требует ручной проверки; не цитировать до подтверждения
+23,C,Sane,2003,The aerodynamics of insect flight,J Exp Biol 206(23):4191-4208,10.1242/jeb.00663,не проверено (сеть),
+24,C,Wang,2005,Dissecting Insect Flight,Annu Rev Fluid Mech 37:183-210,10.1146/annurev.fluid.36.050802.121940,не проверено (сеть),
+25,C,Tobalske,2007,Biomechanics of bird flight,J Exp Biol 210(18):3135-3146,10.1242/jeb.000273,не проверено (сеть),
+26,C,"Pesavento, Wang",2009,Flapping Wing Flight Can Save Aerodynamic Power Compared to Steady Flight,Phys Rev Lett 103:118102,10.1103/PhysRevLett.103.118102,не проверено (сеть),
+27,C,"Harvey, Inman",2021,Aerodynamic efficiency of gliding birds vs comparable UAVs: a review,Bioinspir Biomim 16(3):031001,10.1088/1748-3190/abc86a,подтверждено веб-поиском,"Corrigendum опубликован (IOP, ноябрь 2024); DOI corrigendum 10.1088/1748-3190/ad7082 не подтверждён"
+28,C,Treidel et al.,2024,Insect Flight: State of the Field and Future Directions,Integr Comp Biol 64(2):533-549,10.1093/icb/icae106,КОНФЛИКТ,поиск дал два DOI: icae106 и icad057; сверить у издателя
+29,D,Zufferey,2008,Bio-inspired Flying Robots,EPFL Press,,не проверено (сеть),монография
+30,D,"Goel, McAdams, Stone (eds.)",2014,Biologically Inspired Design: Computational Methods and Tools,Springer,10.1007/978-1-4471-5248-4,не проверено (сеть),монография
+31,D,"Shyy, Aono, Kang, Liu",2013,An Introduction to Flapping Wing Aerodynamics,Cambridge UP,10.1017/CBO9781139583916,не проверено (сеть),монография
+32,E,"Dickinson, Lehmann, Sane",1999,Wing rotation and the aerodynamic basis of insect flight,Science 284:1954,10.1126/science.284.5422.1954,"DOI из памяти, не проверен","добавлено по рекомендации; LEV, вращательная циркуляция"
+33,E,"Lentink, Dickinson",2009,Rotational accelerations stabilize leading edge vortices on revolving fly wings,J Exp Biol 212:2705,10.1242/jeb.031179,"DOI из памяти, не проверен",добавлено по рекомендации; устойчивость LEV
+34,E,Ho et al.,2003,Unsteady aerodynamics and flow control for flapping wing flyers,Prog Aerosp Sci 39,,DOI не установлен,добавлено по рекомендации; DOI не указан
+35,E,Platzer et al.,2008,Flapping wing aerodynamics: progress and challenges,AIAA J 46,,DOI не установлен,добавлено по рекомендации; DOI не указан
+36,E,Shyy et al.,2010,Recent progress in flapping wing aerodynamics and aeroelasticity,Prog Aerosp Sci 46,,DOI не установлен,добавлено по рекомендации; DOI не указан
+37,E,"Chin, Lentink",2016,Flapping wing aerodynamics: from insects to vertebrates,J Exp Biol 219:920,10.1242/jeb.123182,"DOI из памяти, не проверен",добавлено по рекомендации; обзор птицы/насекомые/летучие мыши
+38,F,"Combes, Daniel",2003,Flexural stiffness in insect wings,J Exp Biol 206:2979,10.1242/jeb.00523,"DOI из памяти, не проверен",добавлено по рекомендации; гибкость крыла
+39,F,Young et al.,2009,Details of insect wing design and deformation enhance aerodynamic function and flight efficiency,Science 325:1549,10.1126/science.1175928,"DOI из памяти, не проверен",добавлено по рекомендации; гибкость и эффективность
+40,G,Muijres et al.,2008,Leading-edge vortex improves lift in slow-flying bats,Science 319:1250,10.1126/science.1153019,"DOI из памяти, не проверен",добавлено по рекомендации; летучие мыши
+41,G,Lentink et al.,2007,How swifts control their glide performance with morphing wings,Nature 446:1082,10.1038/nature05733,"DOI из памяти, не проверен",добавлено по рекомендации; морфинг крыла стрижа
+42,H,Ma et al.,2013,"Controlled flight of a biologically inspired, insect-scale robot",Science 340:603,10.1126/science.1231806,"DOI из памяти, не проверен",добавлено по рекомендации; RoboBee
+43,H,Karasek et al.,2018,A tailless aerial robotic flapper reveals that flies use torque coupling in rapid banked turns,Science 361:1089,10.1126/science.aat0350,"DOI из памяти, не проверен",добавлено по рекомендации; DelFly Nimble
+44,H,Ramezani et al.,2017,A biomimetic robotic platform to study flight specializations of bats,Sci Robot 2:eaal2505,10.1126/scirobotics.aal2505,"DOI из памяти, не проверен",добавлено по рекомендации; Bat Bot
+45,H,Chang et al.,2020,Soft biohybrid morphing wings with feathers underlie a new strategy for flight,Nature 582:375,10.1038/s41586-020-2424-4,"DOI из памяти, не проверен",добавлено по рекомендации; PigeonBot; название уточнить
+46,H,Ajanic et al.,2020,Bioinspired wing and tail morphing extends drone flight capabilities,Sci Robot 5,,DOI не установлен,добавлено по рекомендации; LisHawk; DOI не указан
+47,H,"Floreano, Wood",2015,"Science, technology and the future of small autonomous drones",Nature 521:460,10.1038/nature14542,"DOI из памяти, не проверен",добавлено по рекомендации; перспектива
+48,H,"Phan, Park",2019,"Insect-inspired, tailless, hover-capable flapping-wing robots: recent progress, challenges, and future directions",Prog Aerosp Sci 111:100573,10.1016/j.paerosci.2019.100573,"DOI из памяти, не проверен",добавлено по рекомендации; обзор
+49,H,Keennon et al.,2012,Development of the Nano Hummingbird,AIAA Paper 2012-0588,,DOI не установлен,добавлено по рекомендации; DOI не указан
+50,I,Weimerskirch et al.,2001,Energy saving in flight formation (pelicans),Nature 413:697,10.1038/35099558,"DOI из памяти, не проверен",добавлено по рекомендации; полёт строем
+51,I,Portugal et al.,2014,Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight,Nature 505:399,10.1038/nature12939,"DOI из памяти, не проверен",добавлено по рекомендации; полёт строем
+52,I,Sachs,2005,Minimum shear wind strength required for dynamic soaring of albatrosses,Ibis 147,,DOI не установлен,добавлено по рекомендации; DOI не указан
